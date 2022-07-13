@@ -155,7 +155,7 @@ outlines:
       main:
         type: keys
         side: left
-        size: [kx, ky]
+        size: [u, u]
         bound: false
         corner: 1
     keywell:
